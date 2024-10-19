@@ -363,6 +363,7 @@
 "Assets/3rdPerson+Fly/Scripts/PlayerScripts/FlyBehaviour.cs"
 "Assets/3rdPerson+Fly/Scripts/PlayerScripts/MoveBehaviour.cs"
 "Assets/3rdPerson+Fly/Scripts/Readme.cs"
+"Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs"
 -langversion:9.0
 
 /deterministic
