@@ -1,1 +1,0 @@
-[t,y] = ode23('function_second',[0 40],[0 1]);
