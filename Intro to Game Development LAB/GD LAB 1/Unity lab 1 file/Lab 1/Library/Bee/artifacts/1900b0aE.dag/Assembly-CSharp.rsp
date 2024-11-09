@@ -364,9 +364,17 @@
 "Assets/3rdPerson+Fly/Scripts/PlayerScripts/MoveBehaviour.cs"
 "Assets/3rdPerson+Fly/Scripts/Readme.cs"
 "Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs"
+"Assets/Scripts/Assignment 2 Scripts/Assignment2.cs"
+"Assets/Scripts/Assignment 2 Scripts/EnemyCube.cs"
 "Assets/Scripts/Lab 4 Scripts/Blue.cs"
 "Assets/Scripts/Lab 4 Scripts/Green.cs"
 "Assets/Scripts/Lab 4 Scripts/Red.cs"
+"Assets/Scripts/Lab 5 Scripts/Ball.cs"
+"Assets/Scripts/Lab 5 Scripts/Goal.cs"
+"Assets/Scripts/Lab 5 Scripts/Movement.cs"
+"Assets/Scripts/Lab 6 Scripts/bullet.cs"
+"Assets/Scripts/Lab 6 Scripts/Enemy.cs"
+"Assets/Scripts/Lab 6 Scripts/PlayerMovement.cs"
 -langversion:9.0
 
 /deterministic

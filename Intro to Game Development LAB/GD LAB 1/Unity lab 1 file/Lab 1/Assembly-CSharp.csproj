@@ -62,16 +62,24 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Lab 4 Scripts\Green.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Assignment 2 Scripts\EnemyCube.cs" />
+    <Compile Include="Assets\Scripts\Lab 5 Scripts\Ball.cs" />
     <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
     <Compile Include="Assets\Scripts\Lab 4 Scripts\Red.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\HintManagement.cs" />
+    <Compile Include="Assets\Scripts\Assignment 2 Scripts\Assignment2.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\ThirdPersonOrbitCamBasic.cs" />
     <Compile Include="Assets\Scripts\Lab 4 Scripts\Blue.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Lab 5 Scripts\Goal.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\AimBehaviourBasic.cs" />
+    <Compile Include="Assets\Scripts\Lab 6 Scripts\Enemy.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\BasicBehaviour.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\ControlsTutorial.cs" />
+    <Compile Include="Assets\Scripts\Lab 5 Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\Lab 6 Scripts\bullet.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Lab 6 Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Trees Package\README.txt" />
