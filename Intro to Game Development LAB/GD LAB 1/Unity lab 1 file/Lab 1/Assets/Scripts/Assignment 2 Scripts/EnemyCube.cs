@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyCube : MonoBehaviour
 {
 
-    private void Start()
+    private void OnEnable()
     {
         Destroy(gameObject,2);
     }

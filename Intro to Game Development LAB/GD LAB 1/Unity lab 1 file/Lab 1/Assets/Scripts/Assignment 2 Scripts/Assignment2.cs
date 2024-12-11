@@ -17,4 +17,5 @@ public class Assignment2 : MonoBehaviour
         Instantiate(enemyCube, randomLocationOnPlane,Quaternion.identity);
         }
     }
+
 }

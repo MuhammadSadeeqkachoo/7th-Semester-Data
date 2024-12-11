@@ -375,6 +375,11 @@
 "Assets/Scripts/Lab 6 Scripts/bullet.cs"
 "Assets/Scripts/Lab 6 Scripts/Enemy.cs"
 "Assets/Scripts/Lab 6 Scripts/PlayerMovement.cs"
+"Assets/Scripts/Lab 7 Scripts/EnemyController.cs"
+"Assets/Scripts/Lab 7 Scripts/lab7Enemy.cs"
+"Assets/Scripts/Lab 7 Scripts/PlayerController.cs"
+"Assets/Scripts/Lab 8 Scripts/GameManager.cs"
+"Assets/Scripts/Lab 8 Scripts/ScoreManager.cs"
 -langversion:9.0
 
 /deterministic
