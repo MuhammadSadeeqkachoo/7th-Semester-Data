@@ -380,6 +380,10 @@
 "Assets/Scripts/Lab 7 Scripts/PlayerController.cs"
 "Assets/Scripts/Lab 8 Scripts/GameManager.cs"
 "Assets/Scripts/Lab 8 Scripts/ScoreManager.cs"
+"Assets/Scripts/Lab 9 Scripts/CharacterController.cs"
+"Assets/Scripts/Lab 9 Scripts/Fallzone.cs"
+"Assets/Scripts/Lab 9 Scripts/GoalScript.cs"
+"Assets/Scripts/Lab 9 Scripts/Panel.cs"
 -langversion:9.0
 
 /deterministic

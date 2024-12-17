@@ -15,6 +15,4 @@ public class ScoreManager : MonoBehaviour
             highscore = PlayerPrefs.GetInt("highscore");
         }
     }
-
-    
 }

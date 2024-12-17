@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class bullet : MonoBehaviour
@@ -18,9 +15,5 @@ public class bullet : MonoBehaviour
     {
         rb.AddForce(Vector3.forward * bulletSpeed);
         Destroy(gameObject, 2);
-    }
-
-    
-
-    
+    }  
 }

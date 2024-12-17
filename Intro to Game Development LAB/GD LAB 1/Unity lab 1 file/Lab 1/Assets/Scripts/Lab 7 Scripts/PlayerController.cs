@@ -31,14 +31,12 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Get axis inputs
-        float moveX = Input.GetAxis("Horizontal"); // A/D or Left/Right arrow keys
-        float moveZ = Input.GetAxis("Vertical");   // W/S or Up/Down arrow keys
 
-        // Calculate movement vector
+        float moveX = Input.GetAxis("Horizontal"); 
+        float moveZ = Input.GetAxis("Vertical");  
+
         Vector3 move = new Vector3(moveX, 0, moveZ).normalized;
 
-        // Move the player
         transform.Translate(move * speed * Time.deltaTime, Space.World);
 
         scoreText.text = $"Score : {scoreNumb}";

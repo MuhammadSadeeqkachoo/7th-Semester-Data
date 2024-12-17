@@ -65,8 +65,11 @@
     <Compile Include="Assets\Scripts\Lab 8 Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Assignment 2 Scripts\EnemyCube.cs" />
     <Compile Include="Assets\Scripts\Lab 7 Scripts\lab7Enemy.cs" />
+    <Compile Include="Assets\Scripts\Lab 9 Scripts\Fallzone.cs" />
     <Compile Include="Assets\Scripts\Lab 5 Scripts\Ball.cs" />
     <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
+    <Compile Include="Assets\Scripts\Lab 9 Scripts\GoalScript.cs" />
+    <Compile Include="Assets\Scripts\Lab 9 Scripts\CharacterController.cs" />
     <Compile Include="Assets\Scripts\Lab 4 Scripts\Red.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\HintManagement.cs" />
     <Compile Include="Assets\Scripts\Assignment 2 Scripts\Assignment2.cs" />
@@ -85,6 +88,7 @@
     <Compile Include="Assets\Scripts\Lab 7 Scripts\PlayerController.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
     <Compile Include="Assets\Scripts\Lab 6 Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Lab 9 Scripts\Panel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Trees Package\README.txt" />
