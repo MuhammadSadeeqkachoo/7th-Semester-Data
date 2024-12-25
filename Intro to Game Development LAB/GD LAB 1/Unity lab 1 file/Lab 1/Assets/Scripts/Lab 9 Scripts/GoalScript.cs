@@ -13,8 +13,6 @@ public class GoalScript : MonoBehaviour
 
                 gameCompletedPanel.SetActive(true);
                 Time.timeScale = 0.0f;
-            
-            
         }
     }
 }
