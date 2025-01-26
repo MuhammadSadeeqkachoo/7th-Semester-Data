@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|d:\\7th-semester-data\\intro to game development lab\\gd lab 1\\unity lab 1 file\\lab 1\\assets\\scripts\\lab 9 scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 9 scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\assets\\scripts\\lab 10 scripts\\playercontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 10 scripts\\playercontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|d:\\7th-semester-data\\intro to game development lab\\gd lab 1\\unity lab 1 file\\lab 1\\assets\\scripts\\lab 9 scripts\\fallzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 9 scripts\\fallzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|d:\\7th-semester-data\\intro to game development lab\\gd lab 1\\unity lab 1 file\\lab 1\\assets\\scripts\\lab 9 scripts\\goalscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 9 scripts\\goalscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|d:\\7th-semester-data\\intro to game development lab\\gd lab 1\\unity lab 1 file\\lab 1\\assets\\scripts\\lab 9 scripts\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 9 scripts\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|d:\\7th-semester-data\\intro to game development lab\\gd lab 1\\unity lab 1 file\\lab 1\\assets\\scripts\\lab 10 scripts\\enemycontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 10 scripts\\enemycontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CharacterController.cs",
-              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\CharacterController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 9 Scripts\\CharacterController.cs",
-              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\CharacterController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lab 9 Scripts\\CharacterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Title": "PlayerController10.cs",
+              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAkwKAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:07:04.155Z",
+              "WhenOpened": "2024-12-28T17:22:37.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Fallzone.cs",
-              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\Fallzone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 9 Scripts\\Fallzone.cs",
-              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\Fallzone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lab 9 Scripts\\Fallzone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "EnemyController10.cs",
+              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:06:33.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GoalScript.cs",
-              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\GoalScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 9 Scripts\\GoalScript.cs",
-              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\GoalScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lab 9 Scripts\\GoalScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:05:19.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Panel.cs",
-              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\Panel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 9 Scripts\\Panel.cs",
-              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 9 Scripts\\Panel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lab 9 Scripts\\Panel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:00:35.402Z",
+              "WhenOpened": "2024-12-28T16:07:04.485Z",
               "EditorCaption": ""
             }
           ]

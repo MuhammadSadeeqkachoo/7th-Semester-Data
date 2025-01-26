@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\assets\\scripts\\lab 10 scripts\\enemycontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 10 scripts\\enemycontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|d:\\7th-semester-data\\intro to game development lab\\gd lab 1\\unity lab 1 file\\lab 1\\assets\\scripts\\lab 10 scripts\\playercontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2418A3C-00E0-12A5-9846-4A13AF5E4A92}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab 10 scripts\\playercontroller10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController10.cs",
+              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lab 10 Scripts\\PlayerController10.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAIBgwJwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:22:37.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyController10.cs",
+              "DocumentMoniker": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "ToolTip": "D:\\7th-Semester-Data\\Intro to Game Development LAB\\GD LAB 1\\Unity lab 1 file\\Lab 1\\Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lab 10 Scripts\\EnemyController10.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:07:04.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
